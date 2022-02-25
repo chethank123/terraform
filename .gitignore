@@ -1,4 +1,2 @@
 .terraform
-secrets*
-terraform*
-client*
+secrets
